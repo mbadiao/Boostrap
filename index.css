@@ -1,0 +1,15 @@
+.temoignages{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    h1{
+        text-align: center;
+        padding: 30px;
+    }
+    .photo{
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+       
+    }
+}
